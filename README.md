@@ -1,4 +1,4 @@
-# coded-sortedmap-algorithm-in-java
+#sortedmap-algorithm-in-java
 SortedMap is an interface in collection framework. This interface extends Map interface and provides a total ordering of its elements.eg TreeMap
 The SortedMap interface extends Map and creates a display in which all elements are sorted in ascending order of their keys.
 SortedMap adds a number of methods:
